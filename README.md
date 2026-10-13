@@ -1,2 +1,2 @@
-# DAV-lab-
+# DAV-lab
 DAV lab assignments 
